@@ -1,0 +1,10 @@
+npm i react-native-vector-icons
+npm i react-native-google-places-autocomplete
+
+npm install @react-navigation/native
+expo install react-native-screens react-native-safe-area-context
+npm install @react-navigation/stack
+expo install react-native-gesture-handler
+npm install react-native-reanimated
+npm install reanimated-bottom-sheet
+npm i lottie-react-native
